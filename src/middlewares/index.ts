@@ -1,3 +1,4 @@
+export { default as isLoggedIn } from '@/middlewares/is-logged-in'
 export { default as logger } from '@/middlewares/logger'
 export { default as notFound } from '@/middlewares/not-found'
 export { default as onError } from '@/middlewares/on-error'
